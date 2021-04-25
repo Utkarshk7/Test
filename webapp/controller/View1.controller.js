@@ -9,7 +9,8 @@ sap.ui.define([
 
 		return Controller.extend("mindset.com.project2.controller.View1", {
 			onInit: function () {
-
+//create a branch 
+//Branch 2
 			}
 		});
 	});
